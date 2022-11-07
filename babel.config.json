@@ -1,0 +1,17 @@
+{
+  "presets": [
+    [
+      "@babel/preset-react",
+      {
+        "pragma": "dom", // 默认是 React.createElement（仅在经典的运行时中）
+        "pragmaFrag": "DomFrag", // 默认是 React.Fragment（仅在经典的运行时中）
+        "throwIfNamespace": false, // 默认是 true
+        "runtime": "classic" // 默认是 classic
+        // "importSource": "custom-jsx-library" // 默认是 react（仅在经典的运行时中）
+      }
+    ],
+    [
+      "@babel/preset-typescript"
+    ]
+  ]
+}
