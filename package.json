@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "description": "react-modal-utils",
-  "name": "react-modal-utils",
+  "version": "1.0.0-alpha.1",
+  "description": "react-modal-util",
+  "name": "react-modal-util",
   "scripts": {
     "build": "webpack --mode=production --node-env=production",
     "build:dev": "webpack --mode=development",
