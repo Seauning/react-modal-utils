@@ -1,3 +1,8 @@
+# 库信息
+
+version：1.0.0-alpha.1
+package-name：react-modal-util
+
 # 背景
 
 > 过去要使用一个 Modal 组件需要以下步骤
